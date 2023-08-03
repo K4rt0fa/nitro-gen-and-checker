@@ -25,30 +25,6 @@
     <a href="Soon">Join the discord</a>
   </p>
 </p>
-  
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="Soon">About The Project</a>
-      <ul>
-        <li><a href="Soon">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="Soon">Getting Started</a>
-      <ul>
-        <li><a href="Soon">Prerequisites</a></li>
-        <li><a href="Soon">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#copyright">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
 
 ## About The Project
 
